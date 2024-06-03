@@ -1,0 +1,15 @@
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\bin\Debug\net6.0\NewProject.exe
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\bin\Debug\net6.0\NewProject.deps.json
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\bin\Debug\net6.0\NewProject.runtimeconfig.json
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\bin\Debug\net6.0\NewProject.dll
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\bin\Debug\net6.0\NewProject.pdb
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\NewProject.csproj.AssemblyReference.cache
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\NewProject.AssemblyInfoInputs.cache
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\NewProject.AssemblyInfo.cs
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\NewProject.csproj.CoreCompileInputs.cache
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\NewProject.dll
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\refint\NewProject.dll
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\NewProject.pdb
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\NewProject.genruntimeconfig.cache
+D:\DioC#\Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core\NewProject\obj\Debug\net6.0\ref\NewProject.dll
